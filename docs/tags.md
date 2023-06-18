@@ -1,2 +1,1 @@
-# Tags
 [TAGS]

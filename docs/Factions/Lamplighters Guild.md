@@ -1,8 +1,6 @@
 ---
 tags: 
-- faction
+- Faction
 ---
-
-# Lamplighters Guild
 
 test page
