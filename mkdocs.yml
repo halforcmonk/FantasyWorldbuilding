@@ -57,8 +57,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - tags:
-      tags_file: tags.md
+  - tags
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6

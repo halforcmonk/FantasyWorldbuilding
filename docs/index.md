@@ -1,3 +1,3 @@
-# Obsidian Notes
+# Home
 
 Test
