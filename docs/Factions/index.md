@@ -1,3 +1,1 @@
-# Factions
-
 Test folder note
