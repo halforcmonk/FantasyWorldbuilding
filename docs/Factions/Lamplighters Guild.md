@@ -1,3 +1,3 @@
 ---
-tag: faction
+tags: faction
 ---
