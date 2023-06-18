@@ -22,6 +22,12 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+    features:
+      - navigation.path
+      - navigation.indexes
+      - navigation.tabs
+      - navigation.top
+
 # Extensions
 markdown_extensions:
   - footnotes
