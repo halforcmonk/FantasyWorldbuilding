@@ -1,4 +1,6 @@
 ---
-tags:
+tags: 
 - Faction
 ---
+
+Adventurers Guild
