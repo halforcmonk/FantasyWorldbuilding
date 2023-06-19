@@ -67,3 +67,8 @@ extra_javascript:
 
 extra:
   generator: false
+
+nav:
+  - 'index.md'
+  - 'Factions'
+  - 'tags.md'
