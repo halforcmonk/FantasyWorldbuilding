@@ -1,3 +1,3 @@
-# City name
+# City
 
 testing indexes
