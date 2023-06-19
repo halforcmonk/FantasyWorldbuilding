@@ -67,9 +67,3 @@ extra_javascript:
 
 extra:
   generator: false
-
-nav:
-  - 'index.md'
-  - 'factions/'
-  - 'locations/'  
-  - 'tags.md'
