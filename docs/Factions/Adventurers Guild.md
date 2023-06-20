@@ -4,3 +4,5 @@ tags:
 ---
 
 Adventurers Guild
+
+[[Lamplighters Guild]]
